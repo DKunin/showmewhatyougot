@@ -3,6 +3,11 @@
 Directed into console!
 Taken from this comment on [reddit](https://www.reddit.com/r/rickandmorty/comments/3pw7yu/hi_im_mr_meeseeks/).
 
+````
+npm i showmewhatyougot
+
+````
+
                     ___
                 . -^   `--,
                /# =========`-_
