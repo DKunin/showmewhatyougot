@@ -1,6 +1,6 @@
 {
   "name": "showmewhatyougot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": "git@github.com:DKunin/showmewhatyougot.git",
   "description": "Show me what you got!",
   "main": "index.js",

@@ -8,6 +8,13 @@ npm i showmewhatyougot
 
 ````
 
+# Usage
+
+````
+var showMeWhatYouGot = require('showmewhatyougot');
+
+showMeWhatYouGot();
+
                     ___
                 . -^   `--,
                /# =========`-_
@@ -25,3 +32,5 @@ npm i showmewhatyougot
                   \##        |
                    \###.    .)
                     `======/
+
+````

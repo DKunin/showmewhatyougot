@@ -18,4 +18,8 @@ var giantHead = '            ___          \n'+
                 '           \\###.    .)   \n'+
                 '            `======/     ';
 
-console.log(giantHead);
+function showMeWhatYouGot(){
+  console.log(giantHead)
+};
+
+module.exports = showMeWhatYouGot;
